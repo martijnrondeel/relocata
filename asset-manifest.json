@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/relocata/static/css/main.de75b4b9.chunk.css",
+    "main.js": "/relocata/static/js/main.43806938.chunk.js",
+    "main.js.map": "/relocata/static/js/main.43806938.chunk.js.map",
+    "runtime-main.js": "/relocata/static/js/runtime-main.a574df83.js",
+    "runtime-main.js.map": "/relocata/static/js/runtime-main.a574df83.js.map",
+    "static/js/2.8326bf1c.chunk.js": "/relocata/static/js/2.8326bf1c.chunk.js",
+    "static/js/2.8326bf1c.chunk.js.map": "/relocata/static/js/2.8326bf1c.chunk.js.map",
+    "index.html": "/relocata/index.html",
+    "precache-manifest.4c5c75f0011c50536c8d97fa341ccd66.js": "/relocata/precache-manifest.4c5c75f0011c50536c8d97fa341ccd66.js",
+    "service-worker.js": "/relocata/service-worker.js",
+    "static/css/main.de75b4b9.chunk.css.map": "/relocata/static/css/main.de75b4b9.chunk.css.map",
+    "static/js/2.8326bf1c.chunk.js.LICENSE.txt": "/relocata/static/js/2.8326bf1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a574df83.js",
+    "static/js/2.8326bf1c.chunk.js",
+    "static/css/main.de75b4b9.chunk.css",
+    "static/js/main.43806938.chunk.js"
+  ]
+}
