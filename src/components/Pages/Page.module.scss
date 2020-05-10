@@ -1,0 +1,29 @@
+.page {
+  width: 100%;
+  margin-top: 100px;
+
+  &__header {
+    margin: 0px 200px;
+    text-align: center;
+  }
+
+  &__title {
+    font-size: 60px;
+  }
+
+  &__actions {
+    margin: 100px;
+    justify-content: flex-end;
+    display: flex;
+  }
+
+  &__content {
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+  }
+
+  &__description {
+    margin-top: 50px;
+  }
+}

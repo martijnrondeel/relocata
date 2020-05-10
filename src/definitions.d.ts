@@ -1,3 +1,15 @@
+declare interface KiwiLocation {
+  code: string;
+  country: {
+    name: string;
+    code: string;
+  };
+  name: string;
+  special: any[];
+  airports: number;
+  [key: string]: any;
+}
+
 declare namespace NodeJS {
   interface ProcessEnv {
     readonly NODE_ENV: 'development' | 'production' | 'test';

@@ -1,0 +1,26 @@
+.cityinformation {
+  width: 100%;
+  margin: 20px;
+  padding: 20px;
+
+  h1 {
+    text-align: center;
+  }
+
+  h4 {
+    margin: 10px 0px;
+    margin-top: 25px;
+  }
+
+  &__preferred {
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    border: solid 2px #ffeb00;
+    border-radius: 4px;
+  }
+
+  &__flightlink {
+    margin-top: 10px;
+    display: block;
+    text-align: right;
+  }
+}
