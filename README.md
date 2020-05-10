@@ -47,6 +47,8 @@ Made in Figma.
 - Implement proper form validation for name and city inputs
 - Catch API errors and show status to the user
 - Run tests on push with GitHub actions (CI/CD)
+- Further improve testing with unit tests, snapshot tests and API integration tests
+- Improve responsiveness of website
 - If server-side was a possibility:
   - Implement rate-limiting
   - Put API keys in environment variables and use .env file for development
